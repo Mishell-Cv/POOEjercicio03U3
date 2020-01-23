@@ -1,0 +1,21 @@
+[
+        {"titulo" : "Comercio Exterior",
+	"descripcion" : "Especializate en Comercio Exterior", 
+	"costo": 156.0},
+        {"titulo" : "Marketing de Artes",
+	"descripcion" : "Marketing y Canales de Distribución en los Sectores de Artes Escénicas y Artes Visuales", 
+	"costo": 320.0},
+        {"titulo" : "Diseño y Producción Integral de Videojuegos",
+	"descripcion" : "El mercado de videojuegos ha crecido en los últimos años", 
+	"costo": 225.0},
+        {"titulo" : "Animación Audiovisual 3D",
+	"descripcion" : "Blender es un software extremadamente versátil", 
+	"costo": 280.0},
+        {"titulo" : "Creación de Páginas Web Con Wordpress",
+	"descripcion" : "Especializate en utilizar Wordpress",
+ 	"costo": 425.0},
+        {"titulo" : "Fundamentos de Talento Humano",
+	"descripcion" : "Aprende las bases fundamentales para manejar T.H. de una empresa", 
+	"costo": 190.0}
+        
+]

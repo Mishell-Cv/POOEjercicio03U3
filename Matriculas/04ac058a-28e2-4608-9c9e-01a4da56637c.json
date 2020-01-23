@@ -1,0 +1,61 @@
+{
+  "numero": "04ac058a-28e2-4608-9c9e-01a4da56637c",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 19,
+    "second": 33
+  },
+  "estado": "Reprobado",
+  "estudiante": {
+    "nombre": "Emily",
+    "apellido": "Sanchez",
+    "cedula": "171546548-5"
+  },
+  "curso": {
+    "titulo": "Fundamentos de Talento Humano",
+    "costo": 190.0,
+    "descripcion": "Aprende las bases fundamentales para manejar T.H. de una empresa"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 57
+      },
+      "valor": 15.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 21,
+        "second": 0
+      },
+      "valor": 14.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 21,
+        "second": 2
+      },
+      "valor": 13.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.0
+}

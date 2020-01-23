@@ -1,0 +1,61 @@
+{
+  "numero": "2a2f5e9b-b94e-422b-9c57-651c1b7f88d3",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 0,
+    "second": 4
+  },
+  "estado": "Reprobado",
+  "estudiante": {
+    "nombre": "Jonathan",
+    "apellido": "Torres",
+    "cedula": "1718145632"
+  },
+  "curso": {
+    "titulo": "Marketing de Artes",
+    "costo": 320.0,
+    "descripcion": "Marketing y Canales de Distribución en los Sectores de Artes Escénicas y Artes Visuales"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 26
+      },
+      "valor": 16.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 28
+      },
+      "valor": 14.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 30
+      },
+      "valor": 13.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.0
+}

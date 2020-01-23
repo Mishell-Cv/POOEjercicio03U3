@@ -1,0 +1,61 @@
+{
+  "numero": "06409df1-053b-4e70-9359-73ab259ec056",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 51,
+    "second": 12
+  },
+  "estado": "Aprobado",
+  "estudiante": {
+    "nombre": "Anahi",
+    "apellido": "Perez",
+    "cedula": "1785645231"
+  },
+  "curso": {
+    "titulo": "Animación Audiovisual 3D",
+    "costo": 280.0,
+    "descripcion": "Blender es un software extremadamente versátil"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 22,
+        "second": 15
+      },
+      "valor": 17.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 22,
+        "second": 17
+      },
+      "valor": 16.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 22,
+        "second": 19
+      },
+      "valor": 15.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.0
+}

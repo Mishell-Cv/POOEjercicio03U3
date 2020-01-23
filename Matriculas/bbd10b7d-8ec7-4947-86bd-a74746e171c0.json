@@ -1,0 +1,61 @@
+{
+  "numero": "bbd10b7d-8ec7-4947-86bd-a74746e171c0",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 19,
+    "second": 27
+  },
+  "estado": "Aprobado",
+  "estudiante": {
+    "nombre": "Jonathan",
+    "apellido": "Torres",
+    "cedula": "1718145632"
+  },
+  "curso": {
+    "titulo": "Creación de Páginas Web Con Wordpress",
+    "costo": 425.0,
+    "descripcion": "Especializate en utilizar Wordpress"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 29
+      },
+      "valor": 15.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 31
+      },
+      "valor": 13.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 33
+      },
+      "valor": 16.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.0
+}

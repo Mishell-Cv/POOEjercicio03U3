@@ -1,0 +1,46 @@
+[
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [],
+    "nombre": "Mishell",
+    "apellido": "Castillo",
+    "cedula": "172816540-6"
+  },
+  {
+    "carrera": "Ingeniería Mecatrónica",
+    "clubes": [],
+    "nombre": "Emily",
+    "apellido": "Sanchez",
+    "cedula": "171546548-5"
+  },
+  {
+    "carrera": "Ingeniería Mecatrónica",
+    "clubes": [
+      "Club de Robótica",
+      "Club de Música Clásica"
+    ],
+    "nombre": "Jonathan",
+    "apellido": "Castillo",
+    "cedula": "1781654223"
+  },
+  {
+    "carrera": "Ingeniería Electrónica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Natación"
+    ],
+    "nombre": "Anahi",
+    "apellido": "Perez",
+    "cedula": "1785645231"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Música Clásica"
+    ],
+    "nombre": "Jonathan",
+    "apellido": "Torres",
+    "cedula": "1718145632"
+  }
+]
